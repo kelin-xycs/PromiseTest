@@ -1,0 +1,9 @@
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\bin\Debug\PromiseTest.exe.config
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\obj\Debug\PromiseTest.csprojResolveAssemblyReference.cache
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\obj\Debug\PromiseTest.Form1.resources
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\obj\Debug\PromiseTest.Properties.Resources.resources
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\obj\Debug\PromiseTest.csproj.GenerateResource.Cache
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\bin\Debug\PromiseTest.exe
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\bin\Debug\PromiseTest.pdb
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\obj\Debug\PromiseTest.exe
+C:\新建文件夹\Projects 4\PromiseTest\PromiseTest\obj\Debug\PromiseTest.pdb
